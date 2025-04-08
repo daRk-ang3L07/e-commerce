@@ -1,4 +1,15 @@
+# 🛒 Campus Cart
 
+**Campus Cart** is a full-stack e-commerce web application built using **Java, Spring Boot, JSP**, and **MySQL**, designed specifically to cater to campus-based retail needs. The platform allows users to register, browse products, manage carts, and securely place orders. It features both **admin and customer dashboards**, ensuring efficient product management and seamless user experience.
+
+## ✨ Features
+- 🔐 User registration and secure login using **Spring Security**
+- 🛍️ Product browsing, search, and category filtering
+- 🧺 Shopping cart and checkout functionality
+- 📦 Admin panel for managing inventory, users, and orders
+- 📄 Server-side rendering using **JSP**
+- 💾 Backend integration with **MySQL**
+- 📱 Responsive UI with Bootstrap
 
 
   
